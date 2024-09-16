@@ -1,0 +1,25 @@
+/* Jobs.css */
+.jobs-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .job-card {
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .job-card h3 {
+    margin: 0;
+    font-size: 1.2em;
+  }
+  
+  .job-card p {
+    margin: 5px 0;
+  }
+  

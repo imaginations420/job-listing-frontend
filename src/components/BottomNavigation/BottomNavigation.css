@@ -1,0 +1,20 @@
+/* BottomNavigation.css */
+.bottom-nav {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    background-color: #333;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .bottom-nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .bottom-nav .active {
+    font-weight: bold;
+  }
+  
